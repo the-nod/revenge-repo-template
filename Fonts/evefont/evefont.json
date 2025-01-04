@@ -3,16 +3,16 @@
     "name": "EVE Sans Neue",
     "previewText": "Kane Lives!",
     "main": {
-        "ggsans-Bold": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-Bold.ttf",
-        "ggsans-BoldItalic": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-BoldItalic.ttf",
-        "ggsans-ExtraBold": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-ExpandedBold.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-ExpandedBoldItalic.ttf",
-        "ggsans-Medium": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-Condensed.ttf",
-        "ggsans-MediumBold": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-CondensedBold.ttf",
-        "ggsans-MediumItalic": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-CondensedItalic.ttf",
-        "ggsans-Normal": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-Regular.ttf",
-        "ggsans-NormalItalic": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-CondensedBold.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/the-nod/revenge-repo-template/raw/master/Fonts/evefont/EveSansNeue-CondensedBoldItalic.ttf"
+        "ggsans-Bold": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-ExpandedBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-ExpandedBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-Condensed.ttf",
+        "ggsans-MediumBold": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-CondensedBold.ttf",
+        "ggsans-MediumItalic": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-CondensedItalic.ttf",
+        "ggsans-Normal": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-CondensedBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/the-nod/revenge-repo-template/raw/main/Fonts/evefont/EveSansNeue-CondensedBoldItalic.ttf"
     }
 }
